@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm an aspiring Full-Stack Developer ⚡
 
-## NOW
+### NOW
 
 - ✨ I'm creating projects to practice my skills
 - 📫 studying to improve
